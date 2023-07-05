@@ -10,6 +10,7 @@
 
 ## **Comments**
 ● Παρόλο που ο κώδικας δεν είναι πλήρης, η εφαρμογή πρέπει να τρέχει κανονικά σε Android και σε IOS
+
 ● Ακόμη δεν έχει προστεθεί Responsive React Native Screen.
 
 ## **Admissions**
